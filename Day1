@@ -4,3 +4,5 @@ agile
 waterfall
 devops
 git add
+git status
+git commit
